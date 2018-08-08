@@ -1,0 +1,35 @@
+html, body {
+
+}
+
+
+
+#red {
+	height: 100px;
+margin: 20px;
+width: 100px;
+	background-color: red;
+
+}
+
+#green {
+	height: 100px;
+margin: 20px;
+width: 100px;
+	background-color: green;
+}
+
+
+#blue {
+	height: 100px;
+margin: 20px;
+width: 100px;
+	background-color: blue;
+}
+
+#yellow {
+	height: 100px;
+margin: 20px;
+width: 100px;
+	background-color: yellow;
+}
